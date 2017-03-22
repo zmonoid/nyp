@@ -1,0 +1,17 @@
+*.params
+*.jpeg
+*.jpg
+*.rec
+*.png
+*.JPG
+*.JPEG
+*.JPG.*
+*.JPEG.*
+*.jpg.*
+*.jpeg.*
+*.png.*
+*.png
+*.zip
+*.bag
+*.tar
+
